@@ -1,0 +1,8 @@
+.imgSize {
+    width: 20rem;
+    height: 20rem;
+}
+
+.backgroundImg {
+    background-image: url(/public/img/wallpaper.webp);
+}
